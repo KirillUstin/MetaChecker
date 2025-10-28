@@ -1,0 +1,7 @@
+com\metachecker\model\MetaDataResponce.class
+com\metachecker\MetaCheckerApplication.class
+com\metachecker\model\UrlRequest.class
+com\metachecker\controller\MetaController.class
+com\metachecker\util\PhotoMetaExtractor.class
+com\metachecker\service\MetaService.class
+com\metachecker\util\LinkMetaExtractor.class

@@ -1,0 +1,8 @@
+D:\MetaChecker\backend\src\main\java\com\metachecker\controller\MetaController.java
+D:\MetaChecker\backend\src\main\java\com\metachecker\MetaCheckerApplication.java
+D:\MetaChecker\backend\src\main\java\com\metachecker\model\MetaDataResponce.java
+D:\MetaChecker\backend\src\main\java\com\metachecker\model\UrlRequest.java
+D:\MetaChecker\backend\src\main\java\com\metachecker\service\MetaService.java
+D:\MetaChecker\backend\src\main\java\com\metachecker\util\LinkMetaExtractor.java
+D:\MetaChecker\backend\src\main\java\com\metachecker\util\PhotoMetaExtractor.java
+D:\MetaChecker\backend\src\main\java\com\metachecker\util\VideoMetaExtractor.java
